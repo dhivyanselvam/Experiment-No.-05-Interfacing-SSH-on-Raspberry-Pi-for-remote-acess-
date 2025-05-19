@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
+### NAME : K.B.HARSHAVARDHAN
+### ROLL NO : 212224240054
+### DEPARTMENT : AIML
+### DATE : 19/05/2025
 
 
 
@@ -62,9 +62,18 @@ On Linux/macOS:
 4. Enter the password when prompted.
 ## SCREEN SHOTS OF THE INTERFACE 
 
-##  HARDWARE 
+
+![image](https://github.com/user-attachments/assets/5b54d7b3-7ab4-4936-a689-5d06f0e56b5b)
+
+
+
+![image](https://github.com/user-attachments/assets/76a7f0f9-ba9a-40e4-bea7-cecf80ecd82b)
+
+
+![image](https://github.com/user-attachments/assets/0ca3336d-608d-4490-a4a8-fe751b99c3e5)
 
 
 
 ## RESULT:
 SSH was successfully enabled on the Raspberry Pi and a secure terminal connection was established using PuTTY (Windows) or Terminal (macOS/Linux). The Raspberry Pi was accessed remotely, and commands were executed through SSH.
+
