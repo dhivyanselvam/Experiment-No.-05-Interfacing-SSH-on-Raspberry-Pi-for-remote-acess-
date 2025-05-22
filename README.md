@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME : K.B.HARSHAVARDHAN
-### ROLL NO : 212224240054
-### DEPARTMENT : AIML
-### DATE : 19/05/2025
+### NAME : DHIVYAN S
+### ROLL NO : 212224230067
+### DEPARTMENT : AIDS
+### DATE : 22/05/2025
 
 
 
